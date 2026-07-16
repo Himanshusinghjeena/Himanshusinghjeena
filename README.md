@@ -24,11 +24,11 @@
 
 <p align="center">
 
-<a href="YOUR_PORTFOLIO">
+<a href="https://portfolio-hsj.onrender.com/">
 <img src="https://img.shields.io/badge/Portfolio-Visit-7F5AF0?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/himanshu-singh-jeena">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-6C63FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -36,7 +36,7 @@
 <img src="https://img.shields.io/badge/Email-Contact-5B5FEF?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/Himanshusinghjeena">
 <img src="https://img.shields.io/badge/GitHub-Profile-4F46E5?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -44,11 +44,11 @@
 
 <p align="center">
 
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=7F5AF0)
+![](https://komarev.com/ghpvc/?username=Himanshusinghjeena&style=for-the-badge&color=7F5AF0)
 
-![](https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&color=6C63FF)
+![](https://img.shields.io/github/followers/Himanshusinghjeena?style=for-the-badge&color=6C63FF)
 
-![](https://img.shields.io/github/stars/YOUR_USERNAME?affiliations=OWNER&style=for-the-badge&color=5B5FEF)
+![](https://img.shields.io/github/stars/Himanshusinghjeena?affiliations=OWNER&style=for-the-badge&color=5B5FEF)
 
 </p>
 
@@ -762,7 +762,7 @@ open_to:
 <img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/himanshu-singh-jeena">
 <img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -770,7 +770,7 @@ open_to:
 <img src="https://img.shields.io/badge/GitHub-Open%20Source-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="YOUR_PORTFOLIO">
+<a href="https://portfolio-hsj.onrender.com/">
 <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
@@ -937,7 +937,7 @@ It motivates me to keep building impactful software and contributing to the open
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/himanshu-singh-jeena">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -945,7 +945,7 @@ It motivates me to keep building impactful software and contributing to the open
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="YOUR_PORTFOLIO">
+<a href="https://portfolio-hsj.onrender.com/">
 <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
