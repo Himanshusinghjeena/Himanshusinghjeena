@@ -32,7 +32,6 @@
 
 ---
 
----
 
 ## About Me
 
@@ -131,8 +130,6 @@ I'm actively seeking opportunities to contribute to impactful software products,
 
 ---
 
----
-
 ## Featured Projects
 
 <table>
@@ -151,7 +148,7 @@ AI-powered resume analyzer that compares resumes against job descriptions using 
 
 **Repository**
 
-🔗 https://github.com/Himanshusinghjeena/ResumeAI
+[View Repository](https://github.com/Himanshusinghjeena/ResumeAI)
 
 </td>
 
@@ -167,7 +164,8 @@ A Retrieval-Augmented Generation (RAG) application that enables users to upload 
 
 **Repository**
 
-🔗 https://github.com/Himanshusinghjeena/QueryDoc
+[View Repository](https://github.com/Himanshusinghjeena/QueryDoc)
+
 
 </td>
 
@@ -187,7 +185,7 @@ A MERN-based recruitment platform with recruiter authentication, candidate manag
 
 **Repository**
 
-🔗 https://github.com/Himanshusinghjeena/Job-Portal
+[View Repository](https://github.com/Himanshusinghjeena/Job-Portal)
 
 </td>
 
@@ -203,7 +201,7 @@ A modern responsive portfolio highlighting projects, technical skills, and devel
 
 **Repository**
 
-🔗 https://github.com/Himanshusinghjeena/MyPortfolio
+[View Repository](https://github.com/Himanshusinghjeena/MyPortfolio)
 
 </td>
 
@@ -211,7 +209,6 @@ A modern responsive portfolio highlighting projects, technical skills, and devel
 
 </table>
 
----
 ---
 
 # Experience
@@ -222,7 +219,7 @@ A modern responsive portfolio highlighting projects, technical skills, and devel
 
 **June 2024 — November 2024**
 
-Worked on enterprise frontend applications using React while collaborating in Agile development teams.
+Developed reusable React components, integrated REST APIs, optimized application performance, and collaborated in Agile teams to deliver production-ready features.
 
 ### Responsibilities
 
@@ -257,7 +254,7 @@ Worked on enterprise frontend applications using React while collaborating in Ag
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Himanshusinghjeena&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<!-- <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Himanshusinghjeena&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/> -->
 
 <img width="49%" src="https://streak-stats.demolab.com?user=Himanshusinghjeena&theme=tokyonight&hide_border=true"/>
 
@@ -267,7 +264,7 @@ Worked on enterprise frontend applications using React while collaborating in Ag
 
 <div align="center">
 
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshusinghjeena&layout=compact&theme=tokyonight&hide_border=true"/>
+<!-- <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshusinghjeena&layout=compact&theme=tokyonight&hide_border=true"/> -->
 
 </div>
 
@@ -281,19 +278,8 @@ Worked on enterprise frontend applications using React while collaborating in Ag
 
 ---
 
----
 
-# Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Himanshusinghjeena&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-## Current Focus
+## Currently Working On
 
 ```yaml
 Learning:
@@ -340,18 +326,6 @@ Open To:
 
 </div>
 
----
-
----
-
-# 2026 Goals
-
-- Build production-ready AI applications.
-- Master Spring Boot & Backend Engineering.
-- Learn Docker & Kubernetes.
-- Contribute consistently to Open Source.
-- Solve 500+ DSA problems.
-- Prepare for Software Engineering interviews.
 
 ---
 
