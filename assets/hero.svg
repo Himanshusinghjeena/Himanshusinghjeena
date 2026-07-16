@@ -1,19 +1,77 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 400" width="1280" height="400">
 
-  <defs>
+ <defs>
 
     <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0D1117"/>
-      <stop offset="50%" stop-color="#17122A"/>
-      <stop offset="100%" stop-color="#1F1147"/>
+
+        <stop offset="0%" stop-color="#0D1117">
+
+            <animate
+                attributeName="stop-color"
+                values="#0D1117;#17122A;#0D1117"
+                dur="10s"
+                repeatCount="indefinite"/>
+
+        </stop>
+
+        <stop offset="50%" stop-color="#17122A">
+
+            <animate
+                attributeName="stop-color"
+                values="#17122A;#1F1147;#17122A"
+                dur="8s"
+                repeatCount="indefinite"/>
+
+        </stop>
+
+        <stop offset="100%" stop-color="#1F1147">
+
+            <animate
+                attributeName="stop-color"
+                values="#1F1147;#0D1117;#1F1147"
+                dur="12s"
+                repeatCount="indefinite"/>
+
+        </stop>
+
     </linearGradient>
 
-    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#7C3AED"/>
-      <stop offset="100%" stop-color="#6366F1"/>
+    <linearGradient id="border"
+
+        x1="0%"
+        y1="0%"
+        x2="100%"
+        y2="0%">
+
+        <stop offset="0%" stop-color="#7C3AED">
+
+            <animate
+                attributeName="stop-color"
+                values="#7C3AED;#6366F1;#A855F7;#7C3AED"
+                dur="6s"
+                repeatCount="indefinite"/>
+
+        </stop>
+
+        <stop offset="100%" stop-color="#6366F1"/>
+
     </linearGradient>
 
-  </defs>
+    <filter id="glow">
+
+        <feGaussianBlur stdDeviation="8" result="blur"/>
+
+        <feMerge>
+
+            <feMergeNode in="blur"/>
+
+            <feMergeNode in="SourceGraphic"/>
+
+        </feMerge>
+
+    </filter>
+
+</defs>
 
   <rect
       width="1280"
@@ -21,6 +79,27 @@
       rx="24"
       fill="url(#bg)"
   />
+
+  <g opacity="0.05">
+
+    <!-- Vertical lines -->
+    <line x1="80" y1="0" x2="80" y2="400" stroke="#FFFFFF"/>
+    <line x1="160" y1="0" x2="160" y2="400" stroke="#FFFFFF"/>
+    <line x1="240" y1="0" x2="240" y2="400" stroke="#FFFFFF"/>
+    <line x1="320" y1="0" x2="320" y2="400" stroke="#FFFFFF"/>
+    <line x1="400" y1="0" x2="400" y2="400" stroke="#FFFFFF"/>
+    <line x1="480" y1="0" x2="480" y2="400" stroke="#FFFFFF"/>
+    <line x1="560" y1="0" x2="560" y2="400" stroke="#FFFFFF"/>
+    <line x1="640" y1="0" x2="640" y2="400" stroke="#FFFFFF"/>
+    <line x1="720" y1="0" x2="720" y2="400" stroke="#FFFFFF"/>
+    <line x1="800" y1="0" x2="800" y2="400" stroke="#FFFFFF"/>
+    <line x1="880" y1="0" x2="880" y2="400" stroke="#FFFFFF"/>
+    <line x1="960" y1="0" x2="960" y2="400" stroke="#FFFFFF"/>
+    <line x1="1040" y1="0" x2="1040" y2="400" stroke="#FFFFFF"/>
+    <line x1="1120" y1="0" x2="1120" y2="400" stroke="#FFFFFF"/>
+    <line x1="1200" y1="0" x2="1200" y2="400" stroke="#FFFFFF"/>
+
+</g>
 
   <rect
       x="55"
@@ -30,7 +109,7 @@
       rx="20"
       fill="#111827"
       opacity="0.35"
-      stroke="url(#accent)"
+      stroke="url(#border)"
       stroke-width="2"
   />
 
@@ -47,7 +126,8 @@
   <text
       x="90"
       y="180"
-      fill="white"
+      fill="#F8FAFC"
+      filter="url(#glow)"
       font-size="48"
       font-family="Arial"
       font-weight="700"
@@ -75,4 +155,83 @@
       Building scalable software and intelligent applications.
   </text>
 
+  <g transform="translate(90,305)">
+
+    <rect width="90" height="34" rx="17" fill="#7C3AED"/>
+    <text x="45" y="22"
+          text-anchor="middle"
+          fill="white"
+          font-size="14"
+          font-family="Arial">
+          Java
+    </text>
+
+    <rect x="105" width="90" height="34" rx="17" fill="#6366F1"/>
+    <text x="150" y="22"
+          text-anchor="middle"
+          fill="white"
+          font-size="14"
+          font-family="Arial">
+          React
+    </text>
+
+    <rect x="210" width="90" height="34" rx="17" fill="#4F46E5"/>
+    <text x="255" y="22"
+          text-anchor="middle"
+          fill="white"
+          font-size="14"
+          font-family="Arial">
+          Node.js
+    </text>
+
+    <rect x="315" width="90" height="34" rx="17" fill="#A855F7"/>
+    <text x="360" y="22"
+          text-anchor="middle"
+          fill="white"
+          font-size="14"
+          font-family="Arial">
+          GenAI
+    </text>
+
+</g>
+
+  <!-- Floating Particle 1 -->
+<circle cx="1080" cy="90" r="4" fill="#A855F7">
+    <animate attributeName="cy"
+             values="90;70;90"
+             dur="4s"
+             repeatCount="indefinite"/>
+</circle>
+
+<!-- Floating Particle 2 -->
+<circle cx="1120" cy="140" r="3" fill="#6366F1">
+    <animate attributeName="cy"
+             values="140;110;140"
+             dur="6s"
+             repeatCount="indefinite"/>
+</circle>
+
+<!-- Floating Particle 3 -->
+<circle cx="1040" cy="190" r="2.5" fill="#7C3AED">
+    <animate attributeName="cy"
+             values="190;165;190"
+             dur="5s"
+             repeatCount="indefinite"/>
+</circle>
+
+<!-- Floating Particle 4 -->
+<circle cx="1180" cy="240" r="3" fill="#8B5CF6">
+    <animate attributeName="cy"
+             values="240;215;240"
+             dur="7s"
+             repeatCount="indefinite"/>
+</circle>
+
+<!-- Floating Particle 5 -->
+<circle cx="980" cy="300" r="2" fill="#A855F7">
+    <animate attributeName="cy"
+             values="300;275;300"
+             dur="5.5s"
+             repeatCount="indefinite"/>
+</circle>
 </svg>
