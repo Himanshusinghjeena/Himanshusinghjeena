@@ -1,23 +1,19 @@
-<!-- ========================================================= -->
-<!--                  HIMANSHU SINGH JEENA                      -->
-<!-- ========================================================= -->
-
 <div align="center">
 
-<img src="./assets/hero.svg" width="100%" alt="Himanshu Singh Jeena Banner"/>
+<img src="./assets/hero.svg" width="100%" alt="Hero Banner"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1200&color=7C3AED&center=true&vCenter=true&width=900&lines=Software+Engineer;Full+Stack+Developer;Generative+AI+Developer;Java+%7C+React+%7C+Node.js;Building+Production+Ready+Applications"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=1200&color=7C3AED&center=true&vCenter=true&width=900&lines=Software+Engineer;Full+Stack+Developer;Generative+AI+Developer;Java+%7C+React+%7C+Node.js;Building+Production-Ready+Applications"/>
 
-<br><br>
+<br>
 
 <a href="https://portfolio-hsj.onrender.com/">
 <img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/himanshu-singh-jeena/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Himanshu%20Singh%20Jeena-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:himanshujeena9718@gmail.com">
@@ -25,7 +21,7 @@
 </a>
 
 <a href="https://github.com/Himanshusinghjeena">
-<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Himanshusinghjeena-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br><br>
@@ -36,151 +32,186 @@
 
 ---
 
-# Hi, I'm Himanshu 👋
+---
 
-I'm an **MCA student**, **Software Engineer**, and **Full Stack Developer** passionate about building production-ready software and AI-powered applications.
+## About Me
 
-My primary interests lie in building scalable backend systems, modern web applications, and intelligent products using **Java**, **MERN**, and **Generative AI**.
+I'm an **MCA student** and **Software Engineer** passionate about building scalable software and AI-powered applications.
 
-Currently, I'm expanding my expertise in **Spring Boot**, **System Design**, **Docker**, **Kubernetes**, and modern AI engineering.
+I enjoy transforming ideas into production-ready products using **Java**, the **MERN Stack**, and **Generative AI**. My recent work includes AI-assisted recruitment systems and Retrieval-Augmented Generation (RAG) applications.
+
+Currently, I'm deepening my knowledge of **Spring Boot**, **System Design**, **Docker**, **Kubernetes**, and modern backend engineering while strengthening my problem-solving skills through Data Structures and Algorithms.
+
+I'm actively seeking opportunities to contribute to impactful software products, collaborate with engineering teams, and continue growing as a software engineer.
 
 ---
 
 ## Tech Stack
 
+<table>
+<tr>
+
+<td valign="top" width="25%">
+
 ### Languages
 
-<p>
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=java"/>
-<img src="https://skillicons.dev/icons?i=javascript"/>
-<img src="https://skillicons.dev/icons?i=python"/>
-<img src="https://skillicons.dev/icons?i=mysql"/>
+<img src="https://skillicons.dev/icons?i=java" height="48"/><br>
+<img src="https://skillicons.dev/icons?i=javascript" height="48"/><br>
+<img src="https://skillicons.dev/icons?i=python" height="48"/><br>
+<img src="https://skillicons.dev/icons?i=mysql" height="48"/>
 
 </p>
+
+</td>
+
+<td valign="top" width="25%">
 
 ### Frontend
 
-<p>
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=react"/>
-<img src="https://skillicons.dev/icons?i=html"/>
-<img src="https://skillicons.dev/icons?i=css"/>
-<img src="https://skillicons.dev/icons?i=tailwind"/>
+<img src="https://skillicons.dev/icons?i=react" height="48"/><br>
+<img src="https://skillicons.dev/icons?i=html" height="48"/><br>
+<img src="https://skillicons.dev/icons?i=css" height="48"/><br>
+<img src="https://skillicons.dev/icons?i=tailwind" height="48"/>
 
 </p>
+
+</td>
+
+<td valign="top" width="25%">
 
 ### Backend
 
-<p>
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=nodejs"/>
-<img src="https://skillicons.dev/icons?i=express"/>
-<img src="https://skillicons.dev/icons?i=mongodb"/>
+<img src="https://skillicons.dev/icons?i=nodejs" height="48"/><br>
+<img src="https://skillicons.dev/icons?i=express" height="48"/><br>
+<img src="https://skillicons.dev/icons?i=mongodb" height="48"/>
 
 </p>
 
-### AI & Tools
+</td>
 
-`LangChain` • `FAISS` • `Google Gemini` • `RAG`
+<td valign="top" width="25%">
 
-<p>
+### Tools
 
-<img src="https://skillicons.dev/icons?i=git"/>
-<img src="https://skillicons.dev/icons?i=github"/>
-<img src="https://skillicons.dev/icons?i=linux"/>
-<img src="https://skillicons.dev/icons?i=vscode"/>
-<img src="https://skillicons.dev/icons?i=postman"/>
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git" height="48"/><br>
+<img src="https://skillicons.dev/icons?i=github" height="48"/><br>
+<img src="https://skillicons.dev/icons?i=linux" height="48"/><br>
+<img src="https://skillicons.dev/icons?i=vscode" height="48"/>
+
+</p>
+
+</td>
+
+</tr>
+</table>
+
+### AI & Development
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/FAISS-7C3AED?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/RAG-0D1117?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 
 </p>
 
 ---
 
-# Featured Projects
+---
 
-## 🚀 ResumeAI
+## Featured Projects
 
-> AI-powered Resume Analyzer built with Google Gemini.
+<table>
 
-- ATS Compatibility Score
-- Resume Optimization
-- Skills Gap Analysis
-- Interview Preparation
-- AI Cover Letter Generation
+<tr>
 
-**Tech**
+<td width="50%" valign="top">
+
+### 🚀 ResumeAI
+
+AI-powered resume analyzer that compares resumes against job descriptions using **Google Gemini**, providing ATS scoring, resume optimization, interview preparation, and AI-assisted career guidance.
+
+**Tech Stack**
 
 `React` `Node.js` `Gemini API`
 
 **Repository**
 
-https://github.com/Himanshusinghjeena/ResumeAI
+🔗 https://github.com/Himanshusinghjeena/ResumeAI
 
----
+</td>
 
-## 📄 QueryDoc
+<td width="50%" valign="top">
 
-> Chat with your PDF documents using Retrieval-Augmented Generation (RAG).
+### 📄 QueryDoc
 
-- Upload PDFs
-- Semantic Search
-- Source-grounded Answers
-- FAISS Vector Search
-- LangChain Pipeline
+A Retrieval-Augmented Generation (RAG) application that enables users to upload PDFs and ask natural-language questions using semantic search with LangChain and FAISS.
 
-**Tech**
+**Tech Stack**
 
-`Python` `React` `LangChain` `FAISS`
+`Python` `LangChain` `FAISS` `Gemini`
 
 **Repository**
 
-https://github.com/Himanshusinghjeena/QueryDoc
+🔗 https://github.com/Himanshusinghjeena/QueryDoc
 
----
+</td>
 
-## 💼 Job Portal
+</tr>
 
-> Full-stack recruitment platform for managing candidates, recruiters, and application workflows.
+<tr>
 
-### Features
+<td width="50%" valign="top">
 
-- Recruiter Dashboard
-- Authentication & Authorization
-- Candidate Status Tracking
-- REST API Integration
-- Responsive UI
-- Secure CRUD Operations
+### 💼 Job Portal
 
-**Tech**
+A MERN-based recruitment platform with recruiter authentication, candidate management, and application tracking designed to simplify hiring workflows.
 
-`MongoDB` `Express.js` `React` `Node.js`
+**Tech Stack**
+
+`MongoDB` `Express` `React` `Node.js`
 
 **Repository**
 
-https://github.com/Himanshusinghjeena/Job-Portal
+🔗 https://github.com/Himanshusinghjeena/Job-Portal
 
----
+</td>
 
-## 🌐 My Portfolio
+<td width="50%" valign="top">
 
-> Personal developer portfolio showcasing projects, technical skills, and software engineering journey.
+### 🌐 My Portfolio
 
-### Highlights
+A modern responsive portfolio highlighting projects, technical skills, and development journey with a clean UI and optimized performance.
 
-- Responsive Design
-- Smooth UI
-- Project Showcase
-- Contact Section
-- Performance Optimized
-
-**Tech**
+**Tech Stack**
 
 `React` `Tailwind CSS`
 
 **Repository**
 
-https://github.com/Himanshusinghjeena/MyPortfolio
+🔗 https://github.com/Himanshusinghjeena/MyPortfolio
 
+</td>
+
+</tr>
+
+</table>
+
+---
 ---
 
 # Experience
@@ -222,13 +253,13 @@ Worked on enterprise frontend applications using React while collaborating in Ag
 
 ---
 
-# GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Himanshusinghjeena&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Himanshusinghjeena&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Himanshusinghjeena&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=Himanshusinghjeena&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -236,9 +267,19 @@ Worked on enterprise frontend applications using React while collaborating in Ag
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshusinghjeena&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshusinghjeena&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
+
+<br>
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Himanshusinghjeena&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
 
 ---
 
@@ -252,40 +293,41 @@ Worked on enterprise frontend applications using React while collaborating in Ag
 
 ---
 
-# Current Focus
+## Current Focus
 
 ```yaml
-learning:
+Learning:
   - Spring Boot
   - System Design
   - Docker
   - Kubernetes
 
-building:
+Building:
   - AI Recruitment Platform
   - Intelligent RAG Applications
 
-exploring:
+Exploring:
   - Agentic AI
-  - Backend Engineering
+  - Cloud Native Development
 
-open_to:
+Open To:
   - Software Engineering Roles
   - Full Stack Development
+  - AI Application Development
 ```
 
 ---
 
-# Connect With Me
+## Let's Connect
 
 <div align="center">
 
 <a href="https://portfolio-hsj.onrender.com/">
-<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-Visit_Website-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/himanshu-singh-jeena/">
-<img src="https://img.shields.io/badge/LinkedIn-Himanshu%20Singh%20Jeena-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Himanshu_Singh_Jeena-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Himanshusinghjeena">
@@ -293,10 +335,12 @@ open_to:
 </a>
 
 <a href="mailto:himanshujeena9718@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-himanshujeena9718@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
+
+---
 
 ---
 
@@ -315,7 +359,13 @@ open_to:
 
 <div align="center">
 
-> **"I enjoy building software that solves real-world problems through clean engineering and practical AI."**
+### Thanks for stopping by 👋
+
+*"I believe great software is built through curiosity, consistency, and continuous learning."*
+
+<br>
+
+⭐ If you enjoy my work, consider starring my repositories.
 
 </div>
 
@@ -341,8 +391,8 @@ I'm always open to learning, collaborating, and building impactful software.
 
 ---
 
-<div align="center">
+<p align="center">
 
-<img src="./assets/footer.svg" width="100%" alt="Footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:7C3AED,100:6366F1"/>
 
-</div>
+</p>
