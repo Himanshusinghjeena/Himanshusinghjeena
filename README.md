@@ -1,231 +1,160 @@
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:6C63FF,50:7C3AED,100:4F46E5&text=Himanshu%20Singh%20Jeena&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20•%20Full%20Stack%20Developer%20•%20Generative%20AI&descAlignY=60"/>
+# Himanshu Singh Jeena
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Building+Scalable+Software;Full+Stack+Developer;Java+%7C+React+%7C+Node.js;Generative+AI+Developer;Always+Learning+Something+New"/>
+### Software Engineer • Full Stack Developer • Generative AI Developer
 
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&color=7C3AED&center=true&vCenter=true&width=900&lines=Building+Scalable+Software;Java+%7C+React+%7C+Node.js;Generative+AI+Developer;Always+Learning"/>
 
-<a href="mailto:himanshujeena9718@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Himanshusinghjeena">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="YOUR_PORTFOLIO">
-<img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel"/>
-</a>
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=vercel)](https://portfolio-hsj.onrender.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/himanshu-singh-jeena/)
+[![GitHub](https://img.shields.io/badge/GitHub-Himanshusinghjeena-181717?style=for-the-badge&logo=github)](https://github.com/Himanshusinghjeena)
+[![Email](https://img.shields.io/badge/Email-Gmail-EA4335?style=for-the-badge&logo=gmail)](mailto:himanshujeena9718@gmail.com)
 
 </div>
 
 ---
 
-# About Me
+## About
 
-I'm an **MCA student** and **Software Engineer** passionate about building scalable web applications and AI-powered products.
+I'm an MCA student and Software Engineer focused on building production-ready web applications and AI-powered products.
 
-My interests lie at the intersection of **Software Engineering**, **Full Stack Development**, and **Generative AI**, where I enjoy transforming complex ideas into clean, production-ready solutions.
+My primary interests are:
 
-Currently exploring **Spring Boot**, **System Design**, **Docker**, **Kubernetes**, and **Agentic AI**.
+- Java & Backend Development
+- Full Stack (MERN)
+- Generative AI & RAG
+- Clean Architecture
+- Scalable REST APIs
 
----
-
-# Tech Stack
-
-### Languages
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=java,javascript,python"/>
-
-</p>
-
-### Frontend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind"/>
-
-</p>
-
-### Backend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb"/>
-
-</p>
-
-### AI
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=python"/>
-
-</p>
-
-`LangChain` • `FAISS` • `Gemini API` • `RAG`
-
-### Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman"/>
-
-</p>
+Currently learning Spring Boot, Docker, Kubernetes and System Design.
 
 ---
 
-# Featured Projects
+## Tech Stack
 
-## 🚀 ResumeAI
+**Languages**
 
-AI-powered resume analyzer that evaluates resumes against job descriptions using Gemini AI and provides ATS scoring, resume optimization, interview preparation, and cover letter generation.
+`Java` `JavaScript` `Python` `SQL`
 
-**Tech**
+**Frontend**
 
-`React` `Node.js` `Gemini API`
+`React` `HTML` `CSS` `Tailwind CSS`
 
-🔗 Live Demo • Source Code
+**Backend**
 
----
+`Node.js` `Express.js` `MongoDB`
 
-## 📄 QueryDoc
+**AI**
 
-RAG-based document assistant that allows users to upload PDFs and ask natural language questions using LangChain, FAISS, and Gemini.
+`LangChain` `FAISS` `Google Gemini` `RAG`
 
-**Tech**
+**Tools**
 
-`Python` `React` `LangChain` `FAISS`
-
-🔗 Live Demo • Source Code
+`Git` `GitHub` `Linux` `Postman` `VS Code`
 
 ---
 
-## 💼 Job Portal
+## Featured Projects
 
-Full-stack recruitment platform with recruiter dashboard, authentication, candidate management, and application tracking.
+### 🚀 ResumeAI
 
-**Tech**
+AI-powered ATS Resume Analyzer using Google Gemini.
 
-`MongoDB` `Express` `React` `Node`
+**Tech:** React • Node.js • Gemini API
 
-🔗 Live Demo • Source Code
-
----
-
-## 🛒 Jeena Store
-
-Modern responsive e-commerce frontend built with reusable React components and Styled Components.
-
-**Tech**
-
-`React` `Styled Components`
-
-🔗 Live Demo • Source Code
+Repository:
+https://github.com/Himanshusinghjeena/ResumeAI
 
 ---
 
-# Experience
+### 📄 QueryDoc
 
-## React Developer Trainee
+RAG-powered PDF Question Answering application using LangChain and FAISS.
 
-**Chetu Inc.** • Jun 2024 – Nov 2024
+**Tech:** Python • React • LangChain • FAISS
+
+Repository:
+https://github.com/Himanshusinghjeena/QueryDoc
+
+---
+
+### 💼 Job Portal
+
+Full-stack MERN recruitment platform with recruiter dashboard and application tracking.
+
+Repository:
+https://github.com/Himanshusinghjeena/Job-Portal
+
+---
+
+### 🌐 My Portfolio
+
+Personal developer portfolio showcasing projects and skills.
+
+Repository:
+https://github.com/Himanshusinghjeena/MyPortfolio
+
+---
+
+## Experience
+
+### React Developer Trainee — Chetu
+
+**Jun 2024 – Nov 2024**
 
 - Built reusable React components
-- Optimized frontend performance
 - Integrated REST APIs
-- Worked in Agile development teams
-- Used Git & GitHub for collaboration
+- Improved UI performance
+- Worked in Agile teams
 
 ---
 
-# GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Himanshusinghjeena&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Himanshusinghjeena&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshusinghjeena&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# Activity Graph
+## GitHub Stats
 
 <p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Himanshusinghjeena&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Himanshusinghjeena&theme=tokyonight&hide_border=true"/>
+</p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Himanshusinghjeena&theme=tokyo-night&hide_border=true"/>
-
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshusinghjeena&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-# Current Focus
+## Current Focus
 
 ```yaml
-Learning:
+learning:
   - Spring Boot
-  - System Design
   - Docker
   - Kubernetes
+  - System Design
 
-Building:
+building:
   - AI Recruitment Platform
   - RAG Applications
 
-Exploring:
-  - Agentic AI
-  - Cloud Development
-
-Open To:
+open_to:
   - Software Engineer Roles
-  - AI Engineer Roles
+  - Full Stack Roles
 ```
 
 ---
 
-# Connect
+## Connect
 
-<p align="center">
-
-<a href="mailto:himanshujeena9718@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="YOUR_PORTFOLIO">
-<img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel"/>
-</a>
-
-</p>
+- Portfolio: https://portfolio-hsj.onrender.com/
+- LinkedIn: https://www.linkedin.com/in/himanshu-singh-jeena/
+- GitHub: https://github.com/Himanshusinghjeena
+- Email: himanshujeena9718@gmail.com
 
 ---
 
 <div align="center">
 
-*"Building software that solves real-world problems through engineering and AI."*
+**Building software that solves real-world problems with engineering and AI.**
 
 </div>
-
-<p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:6C63FF,50:7C3AED,100:4F46E5"/>
-
-</p>
